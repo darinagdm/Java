@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Represents a Hw3_9
+ * Represents a Hw4_2_1
  * @author Daria Hudemchuk
  * @version 1.0
  * @since 1.0
