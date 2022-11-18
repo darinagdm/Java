@@ -34,4 +34,3 @@ public class HW2{
         System.out.println("Maximum occurring character: " + maxChar);    
     }
 }
-   
